@@ -19,4 +19,16 @@
     <string name="not_hazardous_asteroid_image">Not hazardous asteroid image</string>
     <string name="this_is_nasa_s_picture_of_day_showing_nothing_yet">This is NASA\'s picture of day, showing nothing yet</string>
     <string name="nasa_picture_of_day_content_description_format">NASA\'s picture of day: %s</string>
+    <string name="asteroid_name_placeholder">Asteroid Name</string>
+    <string name="asteroid_date_placeholder">Asteroid Date</string>
+    <string name="asteroid_status">Asteroid Status</string>
+    <string name="potentially_hazardous_image">Potentially Hazardous Image</string>
+    <string name="closed_date">Asteroid Closed to us Date</string>
+    <string name="asteorid_magnitude">Asteroid Magnitude</string>
+    <string name="help_to_see_pop_up_about_magnitude">Help to see pop up about magnitude</string>
+    <string name="asteroid_estimated_diameter">Asteroid Estimated Diameter</string>
+    <string name="relative_velocity">Relative Velocity</string>
+    <string name="loading">Loading</string>
+    <string name="image_day">Image of the day</string>
+    <string name="code_name">Asteroid Code Name</string>
 </resources>
