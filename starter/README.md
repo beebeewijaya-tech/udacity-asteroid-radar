@@ -2,6 +2,13 @@
 
 This folder should contain the scaffolded project files to get a student started on their project. This repo will be added to the Classroom for students to use, so please do not have any solutions in this folder.
 
+## Setup
+```bash
+Remember to put API Key on  AsteroidRepistory.kt file
+
+24. private val apiKey = "" // Insert API KEY Here
+```
+
 ## Note: Android Kotlin Gradle Update
 Use the updated Gradle version in the `~/gradle/wrapper/gradle-wrapper.properties` file:
 ```
